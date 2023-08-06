@@ -1,3 +1,3 @@
 # personality
  Introduction website 
-//personality wepage 
+//personality webpage 
